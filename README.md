@@ -12,4 +12,5 @@ Este proyecto es un renderizador 3D simple que carga modelos 3D en formato OBJ y
 
 **Autor: Diego Morales**
 
-![Video sin título ‐ Hecho con Clipchamp (1)](https://github.com/Diego2250/UsingGLM/assets/77738746/3ecc7c4f-5f49-4253-b225-b6dbeb735026)
+
+![Video sin título ‐ Hecho con Clipchamp (1)](https://github.com/Diego2250/UsingGLM/assets/77738746/5db6af36-cccb-4330-b1af-72ac748adecc)
